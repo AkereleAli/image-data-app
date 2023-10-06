@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    background-color: black;
+    height: 40px;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 100%; */
+    padding: 0.8000em;
+}
+
+h1{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navlist{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    color: #fff;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
